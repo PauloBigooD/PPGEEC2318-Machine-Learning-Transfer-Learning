@@ -12,7 +12,7 @@ def tensorboard_cleanup():
     shutil.rmtree(info_dir)
 
 FOLDERS = {
-    7: ['plots', 'stepbystep''],
+    7: ['plots', 'stepbystep'],
 }
 FILENAMES = {
     7: ['chapter7.py', 'v3.py'],
