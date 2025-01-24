@@ -1,7 +1,7 @@
 # PPGEEC2318-Machine-Learning-Transfer-Learning
 
 
-Inspirado pelo livro *Deep Learning with PyTorch Step-by-Step*, este repositório é uma extensão do artigo publicado no Medium: ["Otimização e Visualização no Aprendizado Profundo: Explorando Gradientes, Otimizadores e Schedulers"](https://medium.com/@paulo.eduardo.093/otimiza%C3%A7%C3%A3o-e-visualiza%C3%A7%C3%A3o-no-aprendizado-profundo-explorando-gradientes-otimizadores-e-schedulers-d56f1a1d530e). Ele foi criado para aprofundar o entendimento dos conceitos apresentados, com foco no uso integrado de funções no PyTorch.
+Inspirado pelo livro *Deep Learning with PyTorch Step-by-Step*, este repositório é uma extensão do artigo publicado no Medium: ["Transfer Learning: Explorando o ImageNet com Modelos Pré-Treinados"](https://medium.com/@paulo.eduardo.093/transfer-learning-explorando-o-imagenet-com-modelos-pr%C3%A9-treinados-b53068921fbf). Ele foi criado para aprofundar o entendimento dos conceitos apresentados, com foco no uso integrado de funções no PyTorch.
 
 As simulações utilizam o dataset de gatos e cachorros, disponível no [Kaggle](https://www.kaggle.com/datasets/tongpython/cat-and-dog/data). O dataset possui cerca de 1.012 imagens para cada classe, sendo processado através de um pipeline otimizado de padronização de imagens e carregamento eficiente.
 
